@@ -24,7 +24,7 @@ public class ImagePullTest {
             "quay.io/testcontainers/ryuk:latest",
             "quay.io/testcontainers/ryuk:0.2.2",
             "quay.io/testcontainers/ryuk@sha256:4b606e54c4bba1af4fd814019d342e4664d51e28d3ba2d18d24406edbefd66da",
-            "ibmcom/db2express-c",
+//            "ibmcom/db2express-c", // Big image for testing with slow networks
         };
     }
 
